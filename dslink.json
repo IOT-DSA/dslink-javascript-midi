@@ -1,7 +1,7 @@
 {
   "name": "dslink-javascript-midi",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "description": "DSLink for input MIDI devices and creating virtual MIDI device.",
   "engines": {
     "node": ">=0.10.0"
